@@ -23,7 +23,7 @@ repository               : "Chen-Xiaoke-THU/Chen-Xiaoke-THU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personnel image.jpg"
+  avatar           : "头像.png"
   name             : "Chen Xiaoke"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Sports and Health Science"
