@@ -86,12 +86,28 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       <img src="/images/paper2.png" width="250">
     </td>
     <td>
-      <a href="[https://onlinelibrary.wiley.com/doi/10.1111/obr.13666](https://www.nature.com/articles/s41366-024-01649-6)">
+      <a href="https://www.nature.com/articles/s41366-024-01649-6">
         <b>Effects of various exercise types on inflammatory response in individuals with overweight and obesity: a systematic review and network meta-analysis of randomized controlled trials</b>
       </a><br>
       Chaofan Chen, Dong Zhang, Mingyi Ye, Yanwei You, Yiling Song & <b>Chen Xiaoke</b><br>
       <i>International Journal of Obesity</i>, 2025, 49(2), 214–225.<br>
       <strong>Impact factor</strong>: 3.8 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper3.png" width="250">
+    </td>
+    <td>
+      <a href="https://onlinelibrary.wiley.com/doi/10.1155/2020/6660557">
+        <b>Effects of Exercise on Inflammatory Cytokines in Patients with Type 2 Diabetes</b>
+      </a><br>
+      <b>Chen X</b>Sun X, Wang C, He H.<br>
+      <i>Oxid Med Cell Longev</i>, 2020 Dec 28; 2020: 6660557<br>
+      <strong>Impact factor</strong>: NA &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
