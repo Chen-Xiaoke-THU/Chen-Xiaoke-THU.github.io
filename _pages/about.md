@@ -86,6 +86,22 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       <img src="/images/paper2.png" width="250">
     </td>
     <td>
+      <a href="[https://onlinelibrary.wiley.com/doi/10.1111/obr.13666](https://www.nature.com/articles/s41366-024-01649-6)">
+        <b>Effects of various exercise types on inflammatory response in individuals with overweight and obesity: a systematic review and network meta-analysis of randomized controlled trials</b>
+      </a><br>
+      Chaofan Chen, Dong Zhang, Mingyi Ye, Yanwei You, Yiling Song & <b>Chen Xiaoke</b><br>
+      <i>International Journal of Obesity</i>, 2025, 49(2), 214–225.<br>
+      <strong>Impact factor</strong>: 3.8 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper2.png" width="250">
+    </td>
+    <td>
       <a href="https://doi.org/10.16038/j.1000-6710.2025.03.002">
         <b>运动干预对超重或肥胖个体慢性炎症反应影响的系统综述和Meta分析</b>
       </a><br>
