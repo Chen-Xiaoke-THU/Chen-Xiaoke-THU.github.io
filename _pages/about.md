@@ -75,7 +75,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       <b>Chen X</b>, He H, Xie K, Zhang L, Cao C.<br>
       <i>Obesity Reviews</i>, 2024 Mar;25(3):e13666.<br>
-      <strong>Impact factor</strong>: 7.4 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <strong>Impact factor</strong>: 7.4 <b>SCI Q2<b> &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
