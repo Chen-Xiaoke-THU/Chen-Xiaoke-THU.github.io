@@ -147,6 +147,38 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
 <table>
   <tr>
     <td width="280">
+      <img src="/images/paper6.png" width="250">
+    </td>
+    <td>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkHn94OIWzukFaSx28LRRt0CdBs6suKrX1zmyyM64I8cjI7xsKGo8EoZ_oBYNxdEVwdpgvLTIAqZreH_dbT3DqO8lRGseMCIEf2IuplCTNjWxdRRA_TvY0mafVDLIl_-CB_zY35qBuADD2ab_Jm4D0Cpggb9ksB0RmvxZYTJagbAPg==&uniplatform=NZKPT&language=CHS">
+        <b>12周有氧运动对绝经女性血管内皮功能和内皮祖细胞的影响</b>
+      </a><br>
+      <b>陈晓可</b>, 何辉, 王文荣<br>
+      <i>中国体育科技</i>,2022, 58(06): 67-73<br>
+      <strong>北大核心</strong>/CSCD &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper7.png" width="250">
+    </td>
+    <td>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkFPfys5qmm76SsX3dCQYILER-8qMqbpqmRUzrI6kc8goTQxXLWeiYemOy-_z4VfAMJWakG0AkTj4MXmLPLD8lP1nIdIi_2pIsQhEYAgJXPuv-8D_2DzjeXQEFuN09bqXO1ETGXcrNx0DYvTXuU_VREAFwEEg0iBd4HncggCq1VZr43XMOaODIjU4UDV6iDj-mk=&uniplatform=NZKPT">
+        <b>高强度间歇训练与等量有氧运动对绝经女性血流动力学和心功能的影响</b>
+      </a><br>
+      <b>陈晓可</b>, 王尧, 杨嘉妮, 何辉<br>
+      <i>中国康复医学杂志</i>,2023,38(01):62-67+73.<br>
+      <strong>北大核心</strong>/CSCD &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
       <img src="/images/paper2.png" width="250">
     </td>
     <td>
