@@ -23,8 +23,9 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
 
 🎓 Education
 ======
-- _2024.09 - Now_, M.Sc. Devision of Sports Science and Physical Education & McGovern Institute for Brain Research at **Tsinghua University**, Beijing.
-- _2020.09 - 2024.06_, B.Sc. School of Sports Science, **Beijing Sport University**, Beijing.
+- _2022.09 - Now_, Phd. Devision of Sports Science and Physical Education & McGovern Institute for Brain Research at **Tsinghua University**, Beijing.
+- _2019.09 - 2022.06_, M.Sc. School of Sports Science, **Beijing Sport University**, Beijing.
+- _2015.09 - 2019.06_, B.Sc. Biological Sciences, **Southwest University**, Chongqing.
 
 <br>
 
