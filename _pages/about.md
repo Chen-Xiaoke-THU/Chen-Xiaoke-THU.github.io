@@ -181,7 +181,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       <img src="/images/paper6.png" width="250">
     </td>
     <td>
-      <a href="https://kns.cnki.net/kcms2/article/abstract">
+      <a href="https://kns.cnki.net/kcms/detail/11.1762.G8.20221205.1134.002.html">
         <b>12周有氧运动对绝经女性血管内皮功能和内皮祖细胞的影响</b>
       </a><br>
       <b>陈晓可</b>, 何辉, 王文荣<br>
