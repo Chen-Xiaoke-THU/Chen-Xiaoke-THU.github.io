@@ -1,23 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title:  "👤 Personal profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a master’s student at the [Division of Sports Science and Physical Education](https://www.thsports.tsinghua.edu.cn/index.htm) and the [McGovern Institute for Brain Research](https://mcgovern.life.tsinghua.edu.cn/ch) at **Tsinghua University**.  
+I'm currently a doctoral student at the [Division of Sports Science and Physical Education](https://www.thsports.tsinghua.edu.cn/index.htm) at **Tsinghua University**.  
 
 My professional and research interests are:  
 - physical activity and health outcomes.
 - systematic review and meta-research.
-- cooling and performance in the heat.
-- sleep, mental health and cognitive function.
+- The effect of exercise on obesity and it's health realated outcomes.
+- Function near-infrared spectroscopy, cognition, and exercise performance. 
 
 My research focuses on the health effects and evidence synthesis of physical activity interventions across populations. I am particularly interested in using meta-analysis, network meta-analysis, and systematic reviews to evaluate how various types of exercise impact metabolic and visceral adipose tissue in individuals with overweight or obesity.
 Recently, I have been expanding my work toward various cooling strategies and exercise performance in the heat, exploring how environmental stressors and thermoregulatory interventions influence athletic performance and physiological responses. This line of work integrates exercise physiology, environmental health, and performance science.  
-I'm open to collaboration and scientific exchange. You can reach me at **chencf6@163.com** or check out my projects on [Reaserchgate](https://www.researchgate.net/profile/Chaofan-Chen-16?ev=hdr_xprf).
+I'm open to collaboration and scientific exchange. You can reach me at **chenxk678@163.com** or check out my projects on [Reaserchgate](https://www.researchgate.net/profile/Xiaoke-Chen-5?ev=hdr_xprf).
 
 <br>
 
