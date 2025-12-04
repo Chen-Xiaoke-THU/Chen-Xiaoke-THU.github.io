@@ -123,7 +123,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       <b>Xiaoke Chen</b>, Xinzheng Sun, Di Gao, and Hui He.<br>
       <i>J Aging Phys Act</i>, 2021 Sep 30:1-9<br>
-      <strong>Impact factor</strong>: 1.5 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <b>SCI Q3<b>, <strong>Impact factor</strong>: 1.5 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -155,7 +155,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       <b>陈晓可</b>, 何辉, 王文荣<br>
       <i>中国体育科技</i>,2022, 58(06): 67-73<br>
-      <strong>北大核心</strong>/CSCD &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <strong>北大核心</strong>/CSSCI &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -172,6 +172,54 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       <b>陈晓可</b>, 王尧, 杨嘉妮, 何辉<br>
       <i>中国康复医学杂志</i>,2023,38(01):62-67+73.<br>
       <strong>北大核心</strong>/CSCD &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper8.png" width="250">
+    </td>
+    <td>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkF-6u7Oj2RqytNK8O_f_MGIwPe_pNBI52KGIK_V1dQsWdOgPo8iZDRZjc7_hfaUXACCbiwbkaHX8tNtyx8y6urbzFOBY0Yvhle7udZOGUI1llPQp44fBV99toIyGecFLEyGOK3brHrsgFHcTqELdac0ZVJiRAKR1n3Geg5jth489Q==&uniplatform=NZKPT&language=CHS">
+        <b>不同运动类型对超重或肥胖人群炎症因子影响的网状Meta分析</b>
+      </a><br>
+      <b>陈晓可</b>, 历建宇, 陈超凡, 曹春梅<br>
+      <i>中国循证医学杂志</i>,2024,24(05):565-571.<br>
+      <strong>北大核心</strong>/CSCD &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper9.png" width="250">
+    </td>
+    <td>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkFdKKO5_zMbcVRwFkyKmg9B3ZwjnmiLysUBWExhuypjNQ6_6e2RJHPRzj6N6dM5PVWldR03XadlS0gOQwDd-B6S8ov9SXZXtsdQeXIEzUC0TLue-RbJmcWVaggEE6Zp4Joog2mV7NSQeDSrO3JkK-2sRpitcQBSO-T5KYa8xnwbAA==&uniplatform=NZKPT&language=CHS">
+        <b>高强度功能性训练与传统单一训练模式的绩效比较研究系统综述——基于运动素质、生理机能和身体成分测试</b>
+      </a><br>
+      <b>陈晓可</b>, 张栋, 陈超凡, 曹春梅<br>
+      <i>首都体育学院学报</i>,2024,36(03):321-333.<br>
+      <strong>北大核心</strong>/CSSCI &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper10.png" width="250">
+    </td>
+    <td>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkHIYaOzXqItvhl4TeCDAQyFxGAw2q1xc4K16am4kLZ_2wu9qr-o71lBZXxKyCP0gI3btf2jS8NHqeSV3zlRxQaMILY6c59x_DjfdYmUZs2kttPEsUeYh04OK8R59NBC-b0AxG23I2H4k24Ylt4oiiik8IpNXT1u6GvghI6yE7bHcQ==&uniplatform=NZKPT&language=CHS">
+        <b>低温环境对人体运动神经肌肉控制能力的影响——对15名男性大学生的研究</b>
+      </a><br>
+      何辉, <b>陈晓可</b>, 杨宇晴<br>
+      <i>北京体育大学学报</i>,2020, 43(11): 119-126.<br>
+      <strong>北大核心</strong>/CSSCI &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
