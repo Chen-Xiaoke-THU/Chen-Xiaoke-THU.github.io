@@ -155,7 +155,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       <b>陈晓可</b>, 何辉, 王文荣<br>
       <i>中国体育科技</i>,2022, 58(06): 67-73<br>
-      <strong>北大核心</strong>/CSSCI &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <strong>北大核心/CSSCI</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -171,7 +171,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       <b>陈晓可</b>, 王尧, 杨嘉妮, 何辉<br>
       <i>中国康复医学杂志</i>,2023,38(01):62-67+73.<br>
-      <strong>北大核心</strong>/CSCD &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <strong>北大核心/CSCD</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -187,7 +187,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       <b>陈晓可</b>, 历建宇, 陈超凡, 曹春梅<br>
       <i>中国循证医学杂志</i>,2024,24(05):565-571.<br>
-      <strong>北大核心</strong>/CSCD &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <strong>北大核心/CSCD</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -203,7 +203,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       <b>陈晓可</b>, 张栋, 陈超凡, 曹春梅<br>
       <i>首都体育学院学报</i>,2024,36(03):321-333.<br>
-      <strong>北大核心</strong>/CSSCI &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <strong>北大核心/CSSCI</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -219,7 +219,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       何辉, <b>陈晓可</b>, 杨宇晴<br>
       <i>北京体育大学学报</i>,2020, 43(11): 119-126.<br>
-      <strong>北大核心</strong>/CSSCI &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <strong>北大核心/CSSCI</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -227,15 +227,15 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
 <table>
   <tr>
     <td width="280">
-      <img src="/images/paper2.png" width="250">
+      <img src="/images/paper11.png" width="250">
     </td>
     <td>
-      <a href="https://doi.org/10.16038/j.1000-6710.2025.03.002">
-        <b>运动干预对超重或肥胖个体慢性炎症反应影响的系统综述和Meta分析</b>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkFrinpkYnGpsAd6PUGimol88CvmQWy-z1tRiOlPwNakqlhtOX0qqqDpwx8G6Bwqdmpr5KXtaWMhRll0bLdrUuwGQix2o6hipfuxsjTFAh4d4IKRXdoyVQgPlwL5fdTMLJUWm-4LF0oCp9oAp-BfQbzWAbzwK7qzB_K-o-63VmamvQ==&uniplatform=NZKPT&language=CHS">
+        <b>运动干预对超重或肥胖个体慢性炎症反应影响的系统综述</b>
       </a><br>
-      <b>陈超凡</b>, 陈晓可, 宋以玲, 等.<br>
+      陈超凡, <b>陈晓可</b>, 宋以玲, 尤彦伟, 方子龙.<br>
       <i>中国运动医学杂志</i>, 2025, 44(03):225–236.<br>
-      <strong>Impact factor</strong>: 1.69 &nbsp;&nbsp;<span style="color:green;">✔ Published </span>
+      <strong>北大核心/CSCD</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published </span>
     </td>
   </tr>
 </table>
@@ -243,15 +243,95 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
 <table>
   <tr>
     <td width="280">
-      <img src="/images/paper3.png" width="250">
+      <img src="/images/paper12.png" width="250">
     </td>
     <td>
-      <a href="https://doi.org/10.1016/j.jadohealth.2025.03.023">
-        <b>Life's Essential 8 and Depression: A National Cross-Sectional Analysis in US Emerging Adults</b>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkHs1IuG03qxk8I5KPuokm9yi7AjzTTM7VlFHsTKKm2zlcLb51m7p7CKlGOpdGoJLseY9o31FAl8IG0eA8gp53tYp3NvRhzAkDtHvQRCLtVLWlzDBPYZp9bxI77oRosAHfQ99AXllDrGmozul0BCJmL4Jsm24RHwgJHkIknDMeonzw==&uniplatform=NZKPT&language=CHS">
+        <b>运动改善动物坐骨神经损伤性疼痛的Meta分析</b>
       </a><br>
-      You Y, Zheng K, Ablitip A, Wang D, <b>Chen C</b>, Liu Y, Chen Y, Ma X.<br>
-      <i>Journal of Adolescent Health</i>, 2025 Jul;77(1):84–93.<br>
-      <strong>Impact factor</strong>: 3.95 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      孙新政, <b>陈晓可</b>, 王成浩, 何辉.<br>
+      <i>中国组织工程研究</i>, 2022,26(02):321-328.<br>
+      <strong>北大核心</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published </span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper13.png" width="250">
+    </td>
+    <td>
+      <a href="https://www.jsams.org/article/S1440-2440(22)00031-7/abstract">
+        <b>The effects of HIIT compared to MICT on endothelial function and hemodynamics in postmenopausal females</b>
+      </a><br>
+      He H, Wang C, <b>Chen X</b>, Sun X, Wang Y, Yang J, Wang F.<br>
+      <i> Sci Med Sport</i>, 2022, May;25(5):364-371.<br>
+      <b>SCI Q1<b>, <strong>Impact factor</strong>: 3.4 &nbsp;&nbsp;<span style="color:green;">✔ Published </span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper14.png" width="250">
+    </td>
+    <td>
+      <a href="https://onlinelibrary.wiley.com/doi/10.1111/sms.14764">
+        <b>Synergistic Effects of Concurrent Aerobic and Strength Training on Fitness in Children and Adolescents: A Multivariate and Network Meta-Analysis</b>
+      </a><br>
+      Zhen Li, Yuqing Qi, <b>Chen X</b>, Jian Li, Jinxi Zhang, Peiyuan Li, Zhixiong Zhou.<br>
+      <i>Scand J Med Sci Sports</i>, 2024 Nov;34(11):e14764.<br>
+      <b>SCI Q1<b>, <strong>Impact factor</strong>: 3.8 &nbsp;&nbsp;<span style="color:green;">✔ Published </span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper15.png" width="250">
+    </td>
+    <td>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkGZl4mVthMTOKw0pJBwdP37f96FIrVQNieCuiU_y_Gpx0pmm4UWA9XVHJ9pl3KkwxpdPivga1f62PTMvl1zAgaDBWVuWLFb9T42ezEQrVElL9PIq-Yio_4Zxc8Bry62GESM8zM7H3NDkMOoMeuJWfboTYJ4Nwy3dTftE6IdVmc4PQ==&uniplatform=NZKPT&language=CHS">
+        <b>全球运动处方研究热点、发展趋势与启示:基于CiteSpaceⅤ的分析</b>
+      </a><br>
+      龚丽景, 高镝, <b>陈晓可</b>, 王馨塘.<br>
+      <i>北京体育大学报</i>, 2021,44(05):21-33.<br>
+      <strong>北大核心/CSSCI</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published </span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper16.png" width="250">
+    </td>
+    <td>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkE0mEJQ9t6Ys5Z3rnXCC6UlzFlBc-4Em7xAQALbHCmXvMbvKrTH0HEqq6-VPuGsp0IBawvVAyycx49MJl3e3lDPj2lLVSzepFrSCUGY56SnI5Gk6xycflL3-PqYETksZgNesakghjVqH5te9jbuLx_YrWFNFOyxQNflpIG7aStj7w==&uniplatform=NZKPT&language=CHS">
+        <b>长期游泳和跑步运动对中年男性血管内皮功能和血流动力学的影响</b>
+      </a><br>
+      邱丹, 何辉, <b>陈晓可</b>, 熊开宇.<br>
+      <i>中国康复医学杂志</i>, 2023,38(09):1239-1246.<br>
+      <strong>北大核心/CSCD</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published </span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper17.png" width="250">
+    </td>
+    <td>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkGyXeJxoWKB1-8U-is7SKyM5tBD703YbyTerajy5AfUPujSpuIVEArsFWdzvHSbBA90vn8DaYnB7HIKc8TsqVPVNSpKAlFSU_hZKn6NuN3NWlIG7VKbcHk7WXj2HqgpjEYD4YDCug6uIbMVH4iK9HUhvLz-CWDuR9OO0188FmAb5w==&uniplatform=NZKPT&language=CHS">
+        <b>补充酮体对竞技运动表现的影响及其机制研究进展</b>
+      </a><br>
+     高镝, 王馨塘, 许春艳, <b>陈晓可</b>, 龚丽景.<br>
+      <i>中国运动医学杂志</i>, 2022,41(05):405-412.<br>
+      <strong>北大核心/CSCD</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published </span>
     </td>
   </tr>
 </table>
