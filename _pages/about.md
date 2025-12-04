@@ -75,7 +75,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       <b>Chen X</b>, He H, Xie K, Zhang L, Cao C.<br>
       <i>Obesity Reviews</i>, 2024 Mar;25(3):e13666.<br>
-      <strong>Impact factor</strong>: 7.4 <b>SCI Q2<b> &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <b>SCI Q1<b>, <strong>Impact factor</strong>: 7.4  &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -91,7 +91,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       Chaofan Chen, Dong Zhang, Mingyi Ye, Yanwei You, Yiling Song & <b>Chen Xiaoke</b><br>
       <i>International Journal of Obesity</i>, 2025, 49(2), 214–225.<br>
-      <strong>Impact factor</strong>: 3.8 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <b>SCI Q2<b>, <strong>Impact factor</strong>: 3.8 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -107,7 +107,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       <b>Chen X</b>, Sun X, Wang C, He H.<br>
       <i>Oxid Med Cell Longev</i>, 2020 Dec 28; 2020: 6660557<br>
-      <strong>Impact factor</strong>: NA &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+       &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -139,7 +139,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       </a><br>
       <b>Chen X</b>, Xie K, Sun X, Zhang C, He H.<br>
       <i>Int J Environ Res Public Health</i>, 2023 Jan 10;20(2):1255<br>
-      <strong>Impact factor</strong>: NA &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
