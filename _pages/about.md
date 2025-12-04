@@ -99,22 +99,6 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
 <table>
   <tr>
     <td width="280">
-      <img src="/images/paper3.png" width="250">
-    </td>
-    <td>
-      <a href="https://onlinelibrary.wiley.com/doi/10.1155/2020/6660557">
-        <b>Effects of Exercise on Inflammatory Cytokines in Patients with Type 2 Diabetes</b>
-      </a><br>
-      <b>Chen X</b>, Sun X, Wang C, He H.<br>
-      <i>Oxid Med Cell Longev</i>, 2020 Dec 28; 2020: 6660557<br>
-       &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="280">
       <img src="/images/paper4.png" width="250">
     </td>
     <td>
@@ -131,6 +115,22 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
 <table>
   <tr>
     <td width="280">
+      <img src="/images/paper3.png" width="250">
+    </td>
+    <td>
+      <a href="https://onlinelibrary.wiley.com/doi/10.1155/2020/6660557">
+        <b>Effects of Exercise on Inflammatory Cytokines in Patients with Type 2 Diabetes</b>
+      </a><br>
+      <b>Chen X</b>, Sun X, Wang C, He H.<br>
+      <i>Oxid Med Cell Longev</i>, 2020 Dec 28; 2020: 6660557<br>
+       &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
       <img src="/images/paper5.png" width="250">
     </td>
     <td>
@@ -140,6 +140,22 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       <b>Chen X</b>, Xie K, Sun X, Zhang C, He H.<br>
       <i>Int J Environ Res Public Health</i>, 2023 Jan 10;20(2):1255<br>
       &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper9.png" width="250">
+    </td>
+    <td>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkFdKKO5_zMbcVRwFkyKmg9B3ZwjnmiLysUBWExhuypjNQ6_6e2RJHPRzj6N6dM5PVWldR03XadlS0gOQwDd-B6S8ov9SXZXtsdQeXIEzUC0TLue-RbJmcWVaggEE6Zp4Joog2mV7NSQeDSrO3JkK-2sRpitcQBSO-T5KYa8xnwbAA==&uniplatform=NZKPT&language=CHS">
+        <b>高强度功能性训练与传统单一训练模式的绩效比较研究系统综述——基于运动素质、生理机能和身体成分测试</b>
+      </a><br>
+      <b>陈晓可</b>, 张栋, 陈超凡, 曹春梅<br>
+      <i>首都体育学院学报</i>,2024,36(03):321-333.<br>
+      <strong>北大核心/CSSCI</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
@@ -195,22 +211,6 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
 <table>
   <tr>
     <td width="280">
-      <img src="/images/paper9.png" width="250">
-    </td>
-    <td>
-      <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkFdKKO5_zMbcVRwFkyKmg9B3ZwjnmiLysUBWExhuypjNQ6_6e2RJHPRzj6N6dM5PVWldR03XadlS0gOQwDd-B6S8ov9SXZXtsdQeXIEzUC0TLue-RbJmcWVaggEE6Zp4Joog2mV7NSQeDSrO3JkK-2sRpitcQBSO-T5KYa8xnwbAA==&uniplatform=NZKPT&language=CHS">
-        <b>高强度功能性训练与传统单一训练模式的绩效比较研究系统综述——基于运动素质、生理机能和身体成分测试</b>
-      </a><br>
-      <b>陈晓可</b>, 张栋, 陈超凡, 曹春梅<br>
-      <i>首都体育学院学报</i>,2024,36(03):321-333.<br>
-      <strong>北大核心/CSSCI</strong> &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="280">
       <img src="/images/paper10.png" width="250">
     </td>
     <td>
@@ -231,7 +231,7 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
     </td>
     <td>
       <a href="https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkFrinpkYnGpsAd6PUGimol88CvmQWy-z1tRiOlPwNakqlhtOX0qqqDpwx8G6Bwqdmpr5KXtaWMhRll0bLdrUuwGQix2o6hipfuxsjTFAh4d4IKRXdoyVQgPlwL5fdTMLJUWm-4LF0oCp9oAp-BfQbzWAbzwK7qzB_K-o-63VmamvQ==&uniplatform=NZKPT&language=CHS">
-        <b>运动干预对超重或肥胖个体慢性炎症反应影响的系统综述</b>
+        <b>运动干预对超重或肥胖个体慢性炎症反应影响的系统综述meta分析</b>
       </a><br>
       陈超凡, <b>陈晓可</b>, 宋以玲, 尤彦伟, 方子龙.<br>
       <i>中国运动医学杂志</i>, 2025, 44(03):225–236.<br>
