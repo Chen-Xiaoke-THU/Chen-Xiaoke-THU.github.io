@@ -70,12 +70,12 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       <img src="/images/paper1.png" width="250">
     </td>
     <td>
-      <a href="https://doi.org/10.1038/s41366-024-01649-6">
-        <b>Effects of various exercise types on inflammatory response in individuals with overweight and obesity</b>
+      <a href="https://onlinelibrary.wiley.com/doi/10.1111/obr.13666">
+        <b>Effects of various exercise types on visceral adipose tissue in individuals with overweight and obesity</b>
       </a><br>
-      <b>Chen C</b>, Zhang D, Ye M, You Y, Song Y, Chen X.<br>
-      <i>International Journal of Obesity</i>, 2025, 49(2):214-225.<br>
-      <strong>Impact factor</strong>: 4.2 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+      <b>Chen X</b>, He H, Xie K, Zhang L, Cao C.<br>
+      <i>Obesity Reviews</i>, 2024 Mar;25(3):e13666.<br>
+      <strong>Impact factor</strong>: 7.4 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
 </table>
