@@ -105,8 +105,40 @@ I'm open to collaboration and scientific exchange. You can reach me at **chenxk6
       <a href="https://onlinelibrary.wiley.com/doi/10.1155/2020/6660557">
         <b>Effects of Exercise on Inflammatory Cytokines in Patients with Type 2 Diabetes</b>
       </a><br>
-      <b>Chen X</b>Sun X, Wang C, He H.<br>
+      <b>Chen X</b>, Sun X, Wang C, He H.<br>
       <i>Oxid Med Cell Longev</i>, 2020 Dec 28; 2020: 6660557<br>
+      <strong>Impact factor</strong>: NA &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper4.png" width="250">
+    </td>
+    <td>
+      <a href="https://journals.humankinetics.com/view/journals/japa/30/4/article-p610.xml">
+        <b>Meta-analysis of the Effects of Aerobic Exercise on the Basal Level of Endothelial Progenitor Cells in Middle-aged and Elderly People</b>
+      </a><br>
+      <b>Xiaoke Chen</b>, Xinzheng Sun, Di Gao, and Hui He.<br>
+      <i>J Aging Phys Act</i>, 2021 Sep 30:1-9<br>
+      <strong>Impact factor</strong>: 1.5 &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="280">
+      <img src="/images/paper5.png" width="250">
+    </td>
+    <td>
+      <a href="https://www.mdpi.com/1660-4601/20/2/1255">
+        <b>The Mechanism of miR-21-5p/TSP-1-Mediating Exercise on the Function of Endothelial Progenitor Cells in Aged Rats</b>
+      </a><br>
+      <b>Chen X</b>, Xie K, Sun X, Zhang C, He H.<br>
+      <i>Int J Environ Res Public Health</i>, 2023 Jan 10;20(2):1255<br>
       <strong>Impact factor</strong>: NA &nbsp;&nbsp;<span style="color:green;">✔ Published</span>
     </td>
   </tr>
